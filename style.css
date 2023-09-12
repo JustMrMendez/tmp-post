@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+    height: 100vh;
+    color: white;
+}
+/* body * {
+    border: 1px dashed red;
+} */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 1rem;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+h3 {
+    margin: 0;
+}
+p {
+    margin: 0;
+}
